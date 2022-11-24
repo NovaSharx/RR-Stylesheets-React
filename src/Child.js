@@ -2,10 +2,11 @@ import GrandChild from "./Grandchild";
 
 function Child() {
     const styledText = {
-        fontSize: "25px",
+        fontSize: "20px",
         textAlign: "center",
         margin: "40px",
-        border: "1px solid green"
+        border: "1px solid green",
+        color: "blue"
     }
 
     return (
